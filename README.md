@@ -29,5 +29,5 @@ A question, an issue with these data? Need an update? Contact us at contact-at-j
 
 # History
 
-* 2022-03 : The first version of the GTFS was produced as part of a network restructuring project, financed by AFD (Agence Française du Développement, French Development Agency) and involving Jungle Bus, Systra and Systra India, Geominds and the local OpenStreetMap community. [Learn more](https://wiki.openstreetmap.org/wiki/India/Transport/Kochi).
-
+* [2022-03](https://github.com/Jungle-Bus/KochiTransport/releases/tag/2022-03) : The first version of the GTFS was produced as part of a network restructuring project, financed by AFD (Agence Française du Développement, French Development Agency) and involving Jungle Bus, Systra and Systra India, Geominds and the local OpenStreetMap community. [Learn more](https://wiki.openstreetmap.org/wiki/India/Transport/Kochi).
+* 2022-09: extension of the GTFS start and end dates, add malayalam stop names in Unroll *route_url* link
